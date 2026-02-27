@@ -1,0 +1,1 @@
+This repository contains a Python script that reads population data from an Excel file, skips non-data header rows, extracts the column corresponding to the year 2024, cleans the data by converting values to numeric format and removing invalid entries, and visualizes the distribution of the population values using a histogram.
